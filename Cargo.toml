@@ -1,5 +1,8 @@
 [workspace]
 
 members = [
-    "_001_connect_eth"
+    "_001_connect_eth",
+    "_002_bitcoin",
+    "_003_rust_web3",
+    "_004_ethers_rs",
 ]
